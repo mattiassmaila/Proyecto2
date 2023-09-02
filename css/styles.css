@@ -1,0 +1,26 @@
+body{
+    background: rgb(0,10,62);
+    background: radial-gradient(circle, rgba(0,10,62,1) 0%, rgba(45,8,87,1) 100%);
+}
+
+h1 {
+    padding-left: 40%;
+    padding-right: 40%;
+    padding-top: 1%;
+    margin: 0%;
+    color: white;
+    font-family: 'Kanit', sans-serif;;
+    font-size: 2em;
+}
+
+form{
+    padding-left: 40%;
+    padding-top: 2% ;
+    color: #7D8597;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: bold;
+}
+
+input{
+    margin-top: 1%;
+}
